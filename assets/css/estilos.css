@@ -39,8 +39,42 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
+}
 
+.color-bar {
+  background-color: #FFB9B9;
+}
+
+.color-fondo {
+  background-color: #FFDDD2;
+}
+
+.color-boton {
+  background-color: #FFACC7 !important;
+}
+.hover-boton {
+  background-color: transparent;
+  border-color: #FFACC7;
+}
+
+.hover-boton:hover {
+  background-color: #FFACC7;
+}
+
+.boton-repo {
+  border-color: #FFACC7;
+  color: #FFACC7;
+  background-color: white;
+}
+
+.boton-repo:hover {
+  background-color: #FFACC7;
+  color: white;
+}
+
+.color-icono {
+  color: #FF8DC7;
 }
